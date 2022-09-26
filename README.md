@@ -1,4 +1,5 @@
-## Deepfake
+<h1 align="center">Deepfake</h1>
+
 Adaptação de um projeto feito no Google Colab por [guilhermesilveira](https://github.com/guilhermesilveira), para rodar em seu computador com Jupyter Notbook
 
 ---
